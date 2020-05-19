@@ -13,7 +13,7 @@ module.exports = {
     },
     create: (req, res) => {
         scientists.push(req.body);
-        res.redirect('/scientists');
+        res.redirect('/');
     },
     edit: (req, res) => {
         res.render('edit.ejs', {
@@ -23,11 +23,11 @@ module.exports = {
     },
     update: (req, res) => {
         scientists[req.params.idx] = req.body;
-        res.redirect('/scientists');
+        res.redirect('/');
     },
     delete: (req, res) => {
         scientists.splice(req.params.idx, 1);
-        res.redirect('/scientists');
+        res.redirect('/');
     }
 
 };
