@@ -18,8 +18,8 @@ module.exports = (app) => {
     app.get('/edit/:idx', func.edit);
 
     // update
-    app.put('/scientists/:idx', func.update);
+    app.put('/:idx', func.update);
 
     // delete
-    app.delete('/scientists/del/:idx', func.delete);
+    app.delete('/del/:idx', func.delete);
 };
