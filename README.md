@@ -24,3 +24,13 @@ Full CRUD App
 - Add function (POST - using <form>) to add new scientist to Exobiology ('/:idx')
 - Update function (PUT - using <form> with method-override) to update existing scientist to Exobiology ('/:idx')
 - Delete function (DELETE - using <form> with method-override) to delete existing scientist to Exobiology ('/del/:idx')
+
+### Screenshots
+- Listing Page
+https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_listing.gif
+- View Page
+https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_view.gif
+- Add Page
+https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_add.gif
+- Edit Page
+https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_edit.gif
