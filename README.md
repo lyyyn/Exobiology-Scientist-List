@@ -27,13 +27,13 @@ Full CRUD App
 
 ### Screenshots
 - Listing Page
-<img src="https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_listing.gif" width="500px"/>
+<img src="https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_listing.GIF" width="500px"/>
 
 - View Page
-<img src="https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_view.gif" width="500px"/>
+<img src="https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_view.GIF" width="500px"/>
 
 - Add Page
-<img src="https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_add.gif" width="500px"/>
+<img src="https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_add.GIF" width="500px"/>
 
 - Edit Page
-<img src="https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_edit.gif" width="500px"/>
+<img src="https://github.com/lyyyn/Exobiology-Scientist-List/blob/master/screenshots/scientist_edit.GIF" width="500px"/>
