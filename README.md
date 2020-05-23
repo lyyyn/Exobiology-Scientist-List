@@ -6,6 +6,9 @@ User can add new scientist, view existing scientist, edit existing scientist, an
 ### Goal
 Full CRUD App
 
+### Demo
+https://exobiology-scientist-list.herokuapp.com/
+
 ### Technology Used
 - Javascript
 - Node / Express
